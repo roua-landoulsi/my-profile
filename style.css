@@ -1,0 +1,33 @@
+h1, h2 {
+  font-family: "Helvetica", sans-serif; /* if all headers use Helvetica */
+}
+a {
+  color: red;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+body {
+  color: blue;
+}
+h1 {
+  color: red;
+}
+.container {
+  width: 700px; /* set the width of your container */
+  margin: 40px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+}
+img {
+  border-radius: 50%;
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
